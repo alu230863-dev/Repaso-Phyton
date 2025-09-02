@@ -1,2 +1,3 @@
 # Repaso-Phyton
 Esto es un repaso de programacion en Phyton
+Python es un lenguaje de programación interpretado, de alto nivel y propósito general, ampliamente utilizado en todo el mundo. Su sintaxis clara y sencilla facilita el aprendizaje tanto para principiantes como para desarrolladores experimentados. Python destaca por su versatilidad, ya que permite desarrollar desde aplicaciones web y automatización de tareas, hasta análisis de datos, inteligencia artificial y más. Además, cuenta con una amplia comunidad y una gran variedad de bibliotecas que facilitan la implementación de soluciones en diferentes áreas tecnológicas.
